@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Web.Presentation", "Theatre.Web.Presentation\Theatre.Web.Presentation.csproj", "{83CBDC53-79A4-4AC0-AD54-37D6E905C897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Web.Core", "Theatre.Web.Core\Theatre.Web.Core.csproj", "{3547954A-6257-4B94-950B-E804E3A79953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Web.Infrastructure", "Theatre.Web.Infrastructure\Theatre.Web.Infrastructure.csproj", "{2B41E2C8-C1EE-4A15-A126-26655E532A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83CBDC53-79A4-4AC0-AD54-37D6E905C897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CBDC53-79A4-4AC0-AD54-37D6E905C897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CBDC53-79A4-4AC0-AD54-37D6E905C897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CBDC53-79A4-4AC0-AD54-37D6E905C897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3547954A-6257-4B94-950B-E804E3A79953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3547954A-6257-4B94-950B-E804E3A79953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3547954A-6257-4B94-950B-E804E3A79953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3547954A-6257-4B94-950B-E804E3A79953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B41E2C8-C1EE-4A15-A126-26655E532A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B41E2C8-C1EE-4A15-A126-26655E532A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B41E2C8-C1EE-4A15-A126-26655E532A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B41E2C8-C1EE-4A15-A126-26655E532A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
